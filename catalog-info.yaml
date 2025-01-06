@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ljfmtw
+  name: fwtfig
   description: An example of a Backstage application.
   annotations:
     jenkins.io/job-full-name: fwtfig
