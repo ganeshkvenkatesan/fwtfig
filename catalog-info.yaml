@@ -1,15 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: fwtfig
+  name: ljfmtw
   description: An example of a Backstage application.
   annotations:
     jenkins.io/job-full-name: fwtfig
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
 spec:
-  type: application
+  type: website
   owner: john@example.com
   lifecycle: experimental
