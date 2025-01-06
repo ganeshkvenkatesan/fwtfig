@@ -4,7 +4,7 @@ metadata:
   name: fwtfig
   description: An example of a Backstage application.
   annotations:
-    jenkins.io/job-full-name: fwtfig
+    jenkins.io/job-full-name: fwtfig-m
 spec:
   type: website
   owner: john@example.com
